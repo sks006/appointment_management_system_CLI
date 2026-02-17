@@ -1,6 +1,6 @@
 
 
-# 🏎️ RWA Asset Engine (CLI)
+# 🏎️  (CLI) Engine
 
 > **A high-performance, modular CLI designed demonstrating systems engineering patterns for Real World Asset (RWA) management.**
 
