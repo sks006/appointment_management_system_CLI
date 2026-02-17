@@ -1,6 +1,6 @@
 
 
-# 🏎️  (CLI) Engine
+# 🏎️  Appointment Management System
 
 > **A high-performance, modular CLI designed demonstrating systems engineering patterns for Real World Asset (RWA) management.**
 
